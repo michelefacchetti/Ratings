@@ -72,7 +72,7 @@
 
 - (void)dealloc
 {
-    NSLog(@"dealloc PlayerDetailsViewController, hello");
+    NSLog(@"dealloc PlayerDetailsViewController");
 }
 
 @end

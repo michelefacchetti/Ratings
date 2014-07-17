@@ -49,6 +49,7 @@
 		8B5B65EC196D9CC6009E2DB7 /* PlayersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B5B65EB196D9CC6009E2DB7 /* PlayersViewController.m */; };
 		8B5B65EF196D9D78009E2DB7 /* Player.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B5B65EE196D9D78009E2DB7 /* Player.m */; };
 		8BE0096319752D5100EBFCA1 /* PlayerDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BE0096219752D5100EBFCA1 /* PlayerDetailsViewController.m */; };
+		8BFAF4E01976D6EF009E828F /* GamePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BFAF4DF1976D6EF009E828F /* GamePickerViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +114,8 @@
 		8B5B65EE196D9D78009E2DB7 /* Player.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Player.m; sourceTree = "<group>"; };
 		8BE0096119752D5100EBFCA1 /* PlayerDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerDetailsViewController.h; sourceTree = "<group>"; };
 		8BE0096219752D5100EBFCA1 /* PlayerDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerDetailsViewController.m; sourceTree = "<group>"; };
+		8BFAF4DE1976D6EF009E828F /* GamePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePickerViewController.h; sourceTree = "<group>"; };
+		8BFAF4DF1976D6EF009E828F /* GamePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamePickerViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +186,8 @@
 				8B5B6593196D8DA7009E2DB7 /* AppDelegate.h */,
 				8B5B6594196D8DA7009E2DB7 /* AppDelegate.m */,
 				8B5B6596196D8DA7009E2DB7 /* Main.storyboard */,
+				8BFAF4DE1976D6EF009E828F /* GamePickerViewController.h */,
+				8BFAF4DF1976D6EF009E828F /* GamePickerViewController.m */,
 				8B5B65B9196D97BA009E2DB7 /* Images */,
 				8B5B6599196D8DA7009E2DB7 /* ViewController.h */,
 				8B5B659A196D8DA7009E2DB7 /* ViewController.m */,
@@ -377,6 +382,7 @@
 				8B5B65EC196D9CC6009E2DB7 /* PlayersViewController.m in Sources */,
 				8B5B6595196D8DA7009E2DB7 /* AppDelegate.m in Sources */,
 				8B5B6591196D8DA7009E2DB7 /* main.m in Sources */,
+				8BFAF4E01976D6EF009E828F /* GamePickerViewController.m in Sources */,
 				8B5735DD1973CA31000DEA90 /* PlayerCell.m in Sources */,
 				8B5B65EF196D9D78009E2DB7 /* Player.m in Sources */,
 				8BE0096319752D5100EBFCA1 /* PlayerDetailsViewController.m in Sources */,
